@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mertbilginnn
-- 👀 I’m interested in c#,html,css,bootstrap
-- 🌱 I’m currently learning html,css,bootstrap
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning c# and ms sql
 - 📫 How to reach me mertbilgin494@gmail.com
 
 <!---
