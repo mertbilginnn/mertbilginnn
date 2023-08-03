@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mertbilginnn
-- 🌱 I’m currently learning c# and ms sql
+- 🌱 I’m currently learning MQL 5
 - 📫 How to reach me mertbilgin494@gmail.com
 
 <!---
